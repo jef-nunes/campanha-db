@@ -1,3 +1,4 @@
 #!/bin/bash
 sudo apt install -y mysql-server
 sudo systemctl stop mysql
+mysql_secure_installation
